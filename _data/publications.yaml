@@ -1,8 +1,8 @@
 papers:
-  - title: "MH-GIN: Multi-scale Heterogeneous Graph-based Imputation Network for AIS Data"
-    authors: "Hengyu Liu, Tianyi Li, Yuqiang He, Kristian Torp, Yushuai Li, Christian S Jensen"
-    venue: "VLDB 2026"
-    paper_pdf: "https://arxiv.org/pdf/2507.20362?"
+  - title: "Event-based incremental recommendation via factors mixed Hawkes process"
+    authors: "Zhihong Cui, Xiangguo Sun, Li Pan, Shijun Liu, Guandong Xu"
+    venue: "Information Sciences"
+    paper_pdf: "https://www.sciencedirect.com/science/article/pii/S0020025523005923"
     selected: y
 
   - title: "RobustZero: Enhancing MuZero Reinforcement Learning Robustness to State Perturbations"
@@ -98,3 +98,4 @@ papers:
   
 
     
+
