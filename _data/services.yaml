@@ -3,24 +3,20 @@ services:
     role: PC Member
     conference: y
 
-  - title: "The 38th, 39th, 40th Annual AAAI Conference on Artifical Intelligence for Social Impact (AISI 2024, 2025, 2026)"
-    role: PC Member
-    conference: y
-
   - title: "The 29th, 30th International Conference on Database System for Advanced Applications (DASFAA 2024, 2025)"
-    role: PC Member
-    conference: y
-
-  - title: "The 8th IEEE Conference on Energy Internet and Energy system Integration (EI2 2024)"
     role: PC Member
     conference: y
 
   - title: "The 12th International Conference on Behavioural and Social Computing (BESC 2025)"
     role: PC Member
     conference: y
-  
-  - title: "The 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023)"
-    role: Reviewer
+    
+   - title: "The 29th, 30th International Conference on Neural Information Processing (ICONIP 2022,2023) " 
+    role: PC Member
+    conference: y
+
+  - title: "The 19th Pacific Rim International Conferences on Artificial Intelligence (PRICAI1 2022) " 
+    role: PC Member
     conference: y
 
   - title: "The 32nd International Joint Conference on Artificial Intelligence (IJCAI 2023)"
@@ -30,27 +26,22 @@ services:
   - title: "2023 ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD 2023)"
     role: Reviewer
     conference: y
+    
+  - title: " Information and Knowledge Management" 
+    role: Reviewer
+    conference: y
 
-  - title: "Sustainability: Special Issue \"Renewable and Sustainable Energy Systems: Architecture, Methodology and Technology, 2nd Edition\""
-    role: Leading Guest Editor
-    journal: y
-  
-  - title: "Information Fusion 2025"
+  - title: "World Wide Web Journal"
     role: Reviewer
     journal: y
   
   - title: "Transactions on Consumer Electronics 2025"
     role: Reviewer
     journal: y
-  
-  - title: "Journal of Advances in Information Technology 2025"
-    role: Reviewer
-    journal: y
-
-  - title: "Transactions on Knowledge Discovery from Data 2024"
-    role: Reviewer
-    journal: y
     
+  - title: "IEEE Transaction Knowledge Discovery from Data 2023"
+    role: Reviewer
+    journal: y
   - title: "IEEE Transaction Knowledge and Data Engineering 2023"
     role: Reviewer
     journal: y
